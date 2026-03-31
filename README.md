@@ -131,7 +131,7 @@ IconSpacing=20
 ### Build Steps
 
 ```bash
-git clone https://github.com/lesebio/TaskbarGroupsEx-Revive
+git clone https://github.com/lesebio/TaskbarGroupsEx-Revive.git
 cd TaskbarGroupsEx-Revive
 dotnet build
 ```
