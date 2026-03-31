@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-	<i>Forked from <a href="https://github.com/Larsonix/TaskbarGroupsEx-Custom">AndyMatt/Taskbar-Groups-Ex</a></i>
+	<i>Forked from <a href="https://github.com/Larsonix/TaskbarGroupsEx-Custom">Larsonix/Taskbar-Groups-Ex-Custom</a></i>
 </p>
 
 ![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png)
