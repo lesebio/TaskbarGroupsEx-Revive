@@ -24,22 +24,17 @@
 </p>
 
 <p align="center">
-	<i>Forked from <a href="https://github.com/AndyMatt/Taskbar-Groups-Ex">AndyMatt/Taskbar-Groups-Ex</a></i>
+	<i>Forked from <a href="https://github.com/Larsonix/TaskbarGroupsEx-Custom">AndyMatt/Taskbar-Groups-Ex</a></i>
 </p>
 
 ![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png)
 
-## Version 0.9.1.1
+## Version 0.9.1.2
 
 ### Changelog
 
-- **Hidden Taskbar Icon** - Popup no longer shows a separate icon in the taskbar when opened
-- **Popup Position Offsets** - X and Y offset settings to fine-tune popup placement
-- **Icon Size** - Customize icon dimensions (16-64px)
-- **Icon Spacing** - Adjust gap between icons (0-100px, where 0 = icons touching)
-- **Streamlined Buttons** - Replaced Save with Apply (saves without closing), plus Exit and Delete
-- **Smart Panel Sizing** - Popup width now adapts to actual icon count (no trailing padding)
-- **Updated GitHub Links** - All links point to this fork
+- **50 shortcuts max limit** - Expanded the shortcut limit to 50
+- **Red Error Text Alignement** - Move down the red error text when shortcut limit is reached or no shortcut added because it's behind the "Add new shortcut text"
 
 ### Compatibility
 
