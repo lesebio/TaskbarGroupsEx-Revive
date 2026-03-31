@@ -43,6 +43,11 @@
 
 <img width="198" height="65" alt="image" src="https://github.com/user-attachments/assets/4dd3d9d4-735c-4813-99bb-cb1dc5ec8b5a" /> <img width="198" height="79" alt="image" src="https://github.com/user-attachments/assets/c005116f-041b-421f-977c-4ab4ead4b8c5" />
 
+- **Red title text expansion** - Expanded the number of characters to show the entire text
+
+<img width="368" height="60" alt="image" src="https://github.com/user-attachments/assets/3abca13d-9227-495c-b470-7b28e4853a49" />
+
+
 ### Compatibility
 
 Works great alongside other taskbar customization tools:
