@@ -47,7 +47,7 @@
 - **Red title text expansion** - Expanded the number of characters to show the entire text
 
   <img width="368" height="60" alt="image" src="https://github.com/user-attachments/assets/3abca13d-9227-495c-b470-7b28e4853a49" /> <img width="367" height="59" alt="image" src="https://github.com/user-attachments/assets/4daca27b-097e-4d83-9f26-9723d395cfdb" />
-- **UI** Some other little optimization and re-organization
+- **UI** - Some other little optimization and re-organization
 
 ### Compatibility
 
