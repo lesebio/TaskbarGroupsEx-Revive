@@ -29,12 +29,15 @@
 
 ![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png)
 
-## Version 0.9.1.2
+## Version 0.9.1.2 (Release comming soon)
 
 ### Changelog
 
 - **50 shortcuts max limit** - Expanded the shortcut limit to 50
-- **Red Error Text Alignement** - Move down the red error text when shortcut limit is reached or no shortcut added because it's behind the "Add new shortcut text"
+- **Red Error Text Alignement** - Move down the red error text when shortcut limit is reached or no shortcut is added.
+								  Because it's behind the "Add new shortcut text"
+<img width="211" height="63" alt="image" src="https://github.com/user-attachments/assets/479cb6f7-e33b-46ff-9a34-63d22d51c52e" />
+
 
 ### Compatibility
 
