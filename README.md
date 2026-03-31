@@ -34,7 +34,7 @@
 ### Changelog
 
 - **50 shortcuts max limit** - Expanded the shortcut limit to 50
-- 
+
 <img width="122" height="52" alt="image" src="https://github.com/user-attachments/assets/cf0f8eb2-ecec-456f-bdd0-bfb6be080175" />
 
 - **Red Error Text Alignement** - Move down the red error text when shortcut limit is reached or no shortcut is added.
