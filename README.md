@@ -33,9 +33,9 @@
 
 ### Changelog
 
-- **50 shortcuts Maximum Width and 10 shortcuts Default Value for new group** - Expanded the shortcut Width to 50 and increased the Default Value to 10
+- **10 shortcuts Default Value for new group and 50 shortcuts Maximum Width** - Increased the Default Value to 10 and expanded the shortcut Maximum Width to 50
 
-  <img width="122" height="52" alt="image" src="https://github.com/user-attachments/assets/cf0f8eb2-ecec-456f-bdd0-bfb6be080175" /> <img width="112" height="33" alt="image" src="https://github.com/user-attachments/assets/2d6ab34e-4edd-4024-b4ff-f10efb6befd9" />
+  <img width="112" height="33" alt="image" src="https://github.com/user-attachments/assets/2d6ab34e-4edd-4024-b4ff-f10efb6befd9" /> <img width="122" height="52" alt="image" src="https://github.com/user-attachments/assets/cf0f8eb2-ecec-456f-bdd0-bfb6be080175" />
 
 
 - **Red Error Text Alignement** - Move down the red error text when shortcut limit is reached or no shortcut is added.
