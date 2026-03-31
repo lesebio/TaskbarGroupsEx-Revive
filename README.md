@@ -38,6 +38,7 @@
 
 - **Red Error Text Alignement** - Move down the red error text when shortcut limit is reached or no shortcut is added.
 								  Because it's behind the "Add new shortcut text"
+
 <img width="211" height="63" alt="image" src="https://github.com/user-attachments/assets/479cb6f7-e33b-46ff-9a34-63d22d51c52e" /> <img width="214" height="84" alt="image" src="https://github.com/user-attachments/assets/fa96bf09-1087-4fb5-bc51-9691deb79df0" />
 
 <img width="198" height="65" alt="image" src="https://github.com/user-attachments/assets/4dd3d9d4-735c-4813-99bb-cb1dc5ec8b5a" /> <img width="198" height="79" alt="image" src="https://github.com/user-attachments/assets/c005116f-041b-421f-977c-4ab4ead4b8c5" />
