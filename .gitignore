@@ -369,3 +369,7 @@ FodyWeavers.xsd
 
 # PowerShell scripts (build helpers)
 generate_snk.ps1
+/TaskbarGroupsEx/TaskbarGroupsEx.csproj
+/TaskbarGroupsEx/TaskbarGroupsEx.csproj
+/TaskbarGroupsEx/TaskbarGroupsEx.csproj
+/TaskbarGroupsEx/TaskbarGroupsEx.csproj
