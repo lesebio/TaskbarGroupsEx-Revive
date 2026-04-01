@@ -1,0 +1,105 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows10.0.17763.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <Platforms>x64</Platforms>
+    <PlatformTarget>x64</PlatformTarget>
+    <EnableNETAnalyzers>True</EnableNETAnalyzers>
+    <ApplicationIcon>Resources\Icon.ico</ApplicationIcon>
+    <PublishReadyToRun>true</PublishReadyToRun>
+    <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
+    <RunAnalyzersDuringBuild>False</RunAnalyzersDuringBuild>
+    <RunAnalyzersDuringLiveAnalysis>False</RunAnalyzersDuringLiveAnalysis>
+    <AnalysisLevel>latest-all</AnalysisLevel>
+    <ErrorReport>none</ErrorReport>
+    <SignAssembly>False</SignAssembly>
+    <Title>TaskbarGroupsEx-Revive</Title>
+    <Description>An Upgraded Lightweight Utility for Organizing the Taskbar through Groups</Description>
+    <Copyright>MIT License</Copyright>
+    <PackageProjectUrl>https://github.com/lesebio/TaskbarGroupsEx-Revive</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/lesebio/TaskbarGroupsEx-Revive</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Taskbar;Windows;Folders</PackageTags>
+    <NeutralLanguage>en</NeutralLanguage>
+    <FileVersion></FileVersion>
+    <AssemblyVersion></AssemblyVersion>
+    <RunPostBuildEvent>OnOutputUpdated</RunPostBuildEvent>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <DebugType>full</DebugType>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <Optimize>False</Optimize>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <DebugType>none</DebugType>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <Optimize>True</Optimize>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Resource\**" />
+    <EmbeddedResource Remove="Resource\**" />
+    <None Remove="Resource\**" />
+    <Page Remove="Resource\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\ArrowDark.png" />
+    <None Remove="Resources\ArrowLight.png" />
+    <None Remove="Resources\defaultIcon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <COMReference Include="Shell32">
+      <WrapperTool>tlbimp</WrapperTool>
+      <VersionMinor>0</VersionMinor>
+      <VersionMajor>1</VersionMajor>
+      <Guid>50a7e9b0-70ef-11d1-b75a-00a0c90564fe</Guid>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+      <EmbedInteropTypes>true</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Interop.UIAutomationClient.Signed" Version="10.19041.0" />
+    <PackageReference Include="PixiEditor.ColorPicker" Version="3.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\AddIconGray.png" />
+    <Resource Include="Resources\AddIconWhite.png" />
+    <Resource Include="Resources\ArrowDark.png" />
+    <Resource Include="Resources\ArrowLight.png" />
+    <Resource Include="Resources\defaultIcon.png" />
+    <Resource Include="Resources\Error.png" />
+    <Resource Include="Resources\Icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>
