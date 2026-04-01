@@ -1,0 +1,20 @@
+﻿TaskbarGroupsEx
+
+
+winexe
+C#
+.cs
+C:\Users\Sebounet\Bureau\TaskbarGroupsEx-Revive\TaskbarGroupsEx\obj\x64\Debug\
+TaskbarGroupsEx
+none
+false
+TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS10_0_17763_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS10_0_17763_0_OR_GREATER;WINDOWS8_0_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\Sebounet\Bureau\TaskbarGroupsEx-Revive\TaskbarGroupsEx\App.xaml
+8-982828190
+
+321082226675
+2071060353759
+Forms\frmClient.xaml;Forms\frmColorPicker.xaml;Forms\frmGroup.xaml;Forms\frmMain.xaml;User controls\ucCategoryPanel.xaml;User controls\ucImageButton.xaml;User controls\ucProgramShortcut.xaml;User controls\ucShortcut.xaml;
+
+False
+
