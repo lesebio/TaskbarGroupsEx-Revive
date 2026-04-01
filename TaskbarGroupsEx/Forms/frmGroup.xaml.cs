@@ -764,7 +764,7 @@ namespace TaskbarGroupsEx
 
 
         //--------------------------------------
-        // SHORTCUT/PRGORAM SELECTION
+        // SHORTCUT/PROGRAM SELECTION
         //--------------------------------------
 
         // Deselect selected program/shortcut

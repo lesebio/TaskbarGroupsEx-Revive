@@ -14,7 +14,7 @@
 
                 <DockPanel DockPanel.Dock="Right" VerticalAlignment="Bottom">
                     <StackPanel>
-                        <TextBlock x:Name="lblErrorNum" HorizontalAlignment="Left" Margin="6,0,0,2" VerticalAlignment="Top" Width="Auto" Height="19" Foreground="Red" RenderTransformOrigin="0,0" FontSize="11" TextAlignment="Right" Visibility="Hidden"><Run Text="Error"/><Run Text="M"/><Run Text="essa"/><Run Language="en-au" Text="ge"/><LineBreak/><Run Language="en-au"/><LineBreak/><Run Text="ge"/></TextBlock>
+                        <TextBlock x:Name="lblErrorNum" HorizontalAlignment="Left" Margin="6,0,0,1" VerticalAlignment="Top" Width="Auto" Height="19" Foreground="Red" RenderTransformOrigin="0,0" FontSize="11" TextAlignment="Right" Visibility="Hidden"><Run Text="Error"/><Run Text="M"/><Run Text="essa"/><Run Language="en-au" Text="ge"/><LineBreak/><Run Language="en-au"/><LineBreak/><Run Text="ge"/></TextBlock>
                         <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
                             <TextBlock x:Name="lblWidth" HorizontalAlignment="Right" Margin="10,0,0,4" VerticalAlignment="Center" Height="27" Foreground="White" RenderTransformOrigin="0,0" FontSize="20" TextAlignment="Center">Width:</TextBlock>
                             <TextBlock x:Name="lblNum" Width="30" Foreground="White" Margin="0,0,0,4" FontSize="20" TextAlignment="Center" VerticalAlignment="Center" Text="0" Height="27"/>

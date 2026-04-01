@@ -9,7 +9,7 @@ using System.Windows;
 [assembly: AssemblyTitle("TaskbarGroupsEx-Revive")]
 [assembly: AssemblyDescription("An Upgraded Lightweight Utility for Organizing the Taskbar through Groups")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("lesebio")]
+[assembly: AssemblyCompany("Lesebio")]
 [assembly: AssemblyProduct("TaskbarGroupsEx-Revive")]
 [assembly: AssemblyCopyright("MIT License")]
 [assembly: AssemblyTrademark("")]
@@ -30,8 +30,8 @@ using System.Windows;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("0.9.1.1")]
-[assembly: AssemblyFileVersion("0.9.1.1")]
+[assembly: AssemblyVersion("0.9.1.2")]
+[assembly: AssemblyFileVersion("0.9.1.2")]
 
 [assembly: ThemeInfo(
     ResourceDictionaryLocation.None,            //where theme specific resource dictionaries are located
