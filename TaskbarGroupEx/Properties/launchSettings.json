@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "TaskbarGroupsEx": {
-      "commandName": "Project",
-      //"commandLineArgs": "Development",
-      //"workingDirectory": "C:\\Tools\\TaskbarGroups\\config\\Development"
-    }
-  }
-}
