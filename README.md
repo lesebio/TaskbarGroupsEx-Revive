@@ -1,21 +1,22 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/tjackenpacken/taskbar-groups/master/main/Icon.ico"  alt="Logo"  width="150"  height="150" />
+	<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/7cada614-73b1-40f7-a682-ccc4fd44cdfd" />
+
 </p>
 
 <h1  align="center">Taskbar Groups Ex - Revive</h1>
 
 <p align="center">
 	<a href="https://github.com/Larsonix/TaskbarGroupsEx-Custom/issues">
-		<img  alt="Issues open"  src="https://img.shields.io/github/issues-raw/Larsonix/TaskbarGroupsEx-Custom?style=for-the-badge"  height="20"/>
+		<img  alt="Issues open"  src="https://img.shields.io/github/issues-raw/lesebio/TaskbarGroupsEx-Revive?style=for-the-badge"  height="20"/>
 	</a>
 	<a href="https://github.com/Larsonix/TaskbarGroupsEx-Custom/">
-		<img  alt="Last commit"  src="https://img.shields.io/github/last-commit/Larsonix/TaskbarGroupsEx-Custom?style=for-the-badge"  height="20"/>
+		<img  alt="Last commit"  src="https://img.shields.io/github/last-commit/lesebio/TaskbarGroupsEx-Revive?style=for-the-badge"  height="20"/>
 	</a>
 	<a href="https://github.com/Larsonix/TaskbarGroupsEx-Custom/releases">
-		<img  alt="Latest version"  src="https://img.shields.io/github/v/tag/Larsonix/TaskbarGroupsEx-Custom?label=Latest%20Version&style=for-the-badge"  height="20"/>
+		<img  alt="Latest version"  src="https://img.shields.io/github/v/tag/lesebio/TaskbarGroupsEx-Revive?label=Latest%20Version&style=for-the-badge"  height="20"/>
 	</a>
 	<a href="https://github.com/Larsonix/TaskbarGroupsEx-Custom/blob/master/LICENSE">
-		<img  alt="License"  src="https://img.shields.io/github/license/Larsonix/TaskbarGroupsEx-Custom?style=for-the-badge"  height="20"/>
+		<img  alt="License"  src="https://img.shields.io/github/license/lesebio/TaskbarGroupsEx-Revive?style=for-the-badge"  height="20"/>
 	</a>
 </p>
 
@@ -226,7 +227,7 @@ Below will be some documentation for each of the screens with explaining the fun
 
 #### Main screen [](#main-screen)
 
-![Group overview screen](https://user-images.githubusercontent.com/56088716/103317856-81025f00-49fa-11eb-907b-99623babf315.PNG)
+![Group overview screen](https://github.com/user-attachments/assets/ad564465-3d66-4f27-b230-b6720564d156)
 
 Here is the main group configuration screen. You get here by executing the TaskbarGroups.exe file. Here you can add groups and see what groups you have created.
 
@@ -234,7 +235,7 @@ Here is the main group configuration screen. You get here by executing the Taskb
 
 #### Group Creation Screen
 
-![Group creation screen](https://user-images.githubusercontent.com/56088716/103452967-36efd680-4ca3-11eb-8244-2aed6fc5af97.PNG)
+![Group creation screen](https://github.com/user-attachments/assets/9f153f47-015b-4480-bddd-d09ded515fb1)
 
 Here is the group creation screen. Here you can start customizing and configuring your group. Here is the quick rundown of the features of this window.
 
