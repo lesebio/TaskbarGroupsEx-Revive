@@ -15,7 +15,7 @@
 	<a href="https://github.com/lesebio/TaskbarGroupsEx-Revive/releases">
 		<img  alt="Latest version"  src="https://img.shields.io/github/v/tag/lesebio/TaskbarGroupsEx-Revive?label=Latest%20Version&style=for-the-badge"  height="20"/>
 	</a>
-	<a href="https://github.com/lesebio/TaskbarGroupsEx-Revive/blob/master/LICENSE">
+	<a href="https://github.com/lesebio/TaskbarGroupsEx-Revive/blob/main/LICENSE">
 		<img  alt="License"  src="https://img.shields.io/github/license/lesebio/TaskbarGroupsEx-Revive?style=for-the-badge"  height="20"/>
 	</a>
 </p>
