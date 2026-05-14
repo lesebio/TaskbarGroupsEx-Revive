@@ -30,7 +30,7 @@
 
 ![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png)
 
-## Version 0.9.1.2 (Release comming soon)
+## Version 0.9.1.2
 
 ### Changelog
 
