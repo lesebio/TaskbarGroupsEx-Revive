@@ -6,16 +6,16 @@
 <h1  align="center">Taskbar Groups Ex - Revive</h1>
 
 <p align="center">
-	<a href="https://github.com/Larsonix/TaskbarGroupsEx-Custom/issues">
+	<a href="https://github.com/lesebio/TaskbarGroupsEx-Revive/issues">
 		<img  alt="Issues open"  src="https://img.shields.io/github/issues-raw/lesebio/TaskbarGroupsEx-Revive?style=for-the-badge"  height="20"/>
 	</a>
-	<a href="https://github.com/Larsonix/TaskbarGroupsEx-Custom/">
+	<a href="https://github.com/lesebio/TaskbarGroupsEx-Revive/">
 		<img  alt="Last commit"  src="https://img.shields.io/github/last-commit/lesebio/TaskbarGroupsEx-Revive?style=for-the-badge"  height="20"/>
 	</a>
-	<a href="https://github.com/Larsonix/TaskbarGroupsEx-Custom/releases">
+	<a href="https://github.com/lesebio/TaskbarGroupsEx-Revive/releases">
 		<img  alt="Latest version"  src="https://img.shields.io/github/v/tag/lesebio/TaskbarGroupsEx-Revive?label=Latest%20Version&style=for-the-badge"  height="20"/>
 	</a>
-	<a href="https://github.com/Larsonix/TaskbarGroupsEx-Custom/blob/master/LICENSE">
+	<a href="https://github.com/lesebio/TaskbarGroupsEx-Revive/blob/master/LICENSE">
 		<img  alt="License"  src="https://img.shields.io/github/license/lesebio/TaskbarGroupsEx-Revive?style=for-the-badge"  height="20"/>
 	</a>
 </p>
